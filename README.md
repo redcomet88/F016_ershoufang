@@ -1,6 +1,6 @@
-# F016_ershoufang  二手房推荐房价预测机器学习可视化系统vue+flask+mysql+爬虫
+# F016  二手房推荐房价预测机器学习可视化系统vue+flask+mysql+爬虫
 
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 关注B站，有好处！
